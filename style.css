@@ -14,7 +14,7 @@
     --neutral-silver: #F5F7FA;
     --neutral-white: #FFFFFF;
 
-    --primary-primary: #4CAF4F;
+    --primary-primary: #4caf4f;
     --primary-secondary: #263238;
     --primary-info: #2194f3;
 
@@ -175,13 +175,13 @@ h4 {
 .link_dark {
     color: var(--neutral-black);
     text-decoration: none;
-    border-bottom: 2px solid var(--neutral-silver);
+    border-bottom: 2px solid rgba(76,175,79, 0);
 }
 
 .link_silver {
     color: var(--neutral-silver);
     text-decoration: none;
-   
+    border-bottom: 2px solid rgba(76,175,79, 0);
 }
 
 
