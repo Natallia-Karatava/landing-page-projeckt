@@ -111,13 +111,6 @@ html {
 }
 
 
-
-/* @media (max-width:640) {
-    body {
-        font-size: var(--base-size-mobile);
-    }
-} */
-
 /* All style */
 
 h1 {
@@ -182,11 +175,13 @@ h4 {
 .link_dark {
     color: var(--neutral-black);
     text-decoration: none;
+    border-bottom: 2px solid var(--neutral-silver);
 }
 
 .link_silver {
     color: var(--neutral-silver);
     text-decoration: none;
+    border-bottom: 2px solid var(--neutral-silver);
 }
 
 
